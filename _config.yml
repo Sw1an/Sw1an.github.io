@@ -50,12 +50,12 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: 0f4KPFGEcefNvnOo6LzlPoUvDjaKrXL3J8YhgSFUTZI               # fill in to your verification string
+google_site_verification:                # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics: 'G-6GXR8E7F0C'
+google_analytics:
   id:                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
