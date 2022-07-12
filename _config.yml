@@ -23,25 +23,25 @@ timezone:
 
 title: Sw1an                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Offensive.Security   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+    Personal blog to share some CyberSecurity stuff.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://sw1an.github.io'
 
 github:
   username: Sev1on             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: Sev1on            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Sev1on
+  email: sevionz@aims.edu             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Sev1on      # change to your twitter homepage
@@ -50,12 +50,12 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification:               # fill in to your verification string
+google_site_verification: 0f4KPFGEcefNvnOo6LzlPoUvDjaKrXL3J8YhgSFUTZI               # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
+google_analytics: 'G-6GXR8E7F0C'
   id:                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
@@ -83,16 +83,16 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/sample/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
 comments:
-  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: 'disqus'       # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: 'Sw1an'    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo:         # <gh-username>/<repo>
